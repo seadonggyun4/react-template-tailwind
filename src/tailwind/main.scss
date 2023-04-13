@@ -1,0 +1,9 @@
+//테일윈드 기본 CSS
+//리셋기능 및 base로 지정되야할 CSS들이 스타일링 되어있다.
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+//bucket
+@import "bucket/.flex";
